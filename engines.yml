@@ -1,0 +1,8 @@
+
+engines:
+
+  fruit:
+    command: fruit
+
+  alphazero:
+    command: alphazero
